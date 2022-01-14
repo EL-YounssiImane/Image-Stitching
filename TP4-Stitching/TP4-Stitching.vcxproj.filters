@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Fichiers sources">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Fichiers de ressources">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Eleve\Downloads\Code\MyDescriptorExtractor.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Eleve\Downloads\Code\MyDescriptorMatcher.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Eleve\Downloads\Code\MyFeatureDetector.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="C:\Users\Eleve\Downloads\Code\IMG_1_reduced.jpg">
+      <Filter>Fichiers sources</Filter>
+    </Image>
+    <Image Include="C:\Users\Eleve\Downloads\Code\IMG_2_reduced.jpg">
+      <Filter>Fichiers sources</Filter>
+    </Image>
+    <Image Include="C:\Users\Eleve\Downloads\Code\IMG_3_reduced.jpg">
+      <Filter>Fichiers sources</Filter>
+    </Image>
+    <Image Include="C:\Users\Eleve\Downloads\Code\IMG_4_reduced.jpg">
+      <Filter>Fichiers sources</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Eleve\Downloads\Code\MyDescriptorExtractor.hpp">
+      <Filter>Fichiers sources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Eleve\Downloads\Code\MyDescriptorMatcher.hpp">
+      <Filter>Fichiers sources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Eleve\Downloads\Code\MyFeatureDetector.hpp">
+      <Filter>Fichiers sources</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Eleve\Downloads\Code\main.h">
+      <Filter>Fichiers sources</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
